@@ -1,0 +1,15 @@
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\bin\Debug\net6.0\ôn tập.exe
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\bin\Debug\net6.0\ôn tập.deps.json
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\bin\Debug\net6.0\ôn tập.runtimeconfig.json
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\bin\Debug\net6.0\ôn tập.dll
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\bin\Debug\net6.0\ôn tập.pdb
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.csproj.AssemblyReference.cache
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.GeneratedMSBuildEditorConfig.editorconfig
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.AssemblyInfoInputs.cache
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.AssemblyInfo.cs
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.csproj.CoreCompileInputs.cache
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.dll
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\refint\ôn tập.dll
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.pdb
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ôn tập.genruntimeconfig.cache
+D:\studyspace\Kteam\c# Nang Cao\ôn tập\obj\Debug\net6.0\ref\ôn tập.dll
